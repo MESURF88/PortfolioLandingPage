@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/PortfolioLandingPage/static/css/main.bfbe6086.chunk.css",
-    "main.js": "/PortfolioLandingPage/static/js/main.c4ca3046.chunk.js",
-    "main.js.map": "/PortfolioLandingPage/static/js/main.c4ca3046.chunk.js.map",
+    "main.css": "/PortfolioLandingPage/static/css/main.84157334.chunk.css",
+    "main.js": "/PortfolioLandingPage/static/js/main.873b96a6.chunk.js",
+    "main.js.map": "/PortfolioLandingPage/static/js/main.873b96a6.chunk.js.map",
     "runtime-main.js": "/PortfolioLandingPage/static/js/runtime-main.d7268b92.js",
     "runtime-main.js.map": "/PortfolioLandingPage/static/js/runtime-main.d7268b92.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/PortfolioLandingPage/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.84f80429.chunk.js": "/PortfolioLandingPage/static/js/2.84f80429.chunk.js",
-    "static/js/2.84f80429.chunk.js.map": "/PortfolioLandingPage/static/js/2.84f80429.chunk.js.map",
+    "static/js/2.bc769f5a.chunk.js": "/PortfolioLandingPage/static/js/2.bc769f5a.chunk.js",
+    "static/js/2.bc769f5a.chunk.js.map": "/PortfolioLandingPage/static/js/2.bc769f5a.chunk.js.map",
     "index.html": "/PortfolioLandingPage/index.html",
-    "precache-manifest.a9999e433e656a3b7d45ac6c8e76b9ad.js": "/PortfolioLandingPage/precache-manifest.a9999e433e656a3b7d45ac6c8e76b9ad.js",
+    "precache-manifest.5a582bdd42bb1aff47903c2bbd79ffc2.js": "/PortfolioLandingPage/precache-manifest.5a582bdd42bb1aff47903c2bbd79ffc2.js",
     "service-worker.js": "/PortfolioLandingPage/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/PortfolioLandingPage/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.bfbe6086.chunk.css.map": "/PortfolioLandingPage/static/css/main.bfbe6086.chunk.css.map",
-    "static/js/2.84f80429.chunk.js.LICENSE.txt": "/PortfolioLandingPage/static/js/2.84f80429.chunk.js.LICENSE.txt"
+    "static/css/main.84157334.chunk.css.map": "/PortfolioLandingPage/static/css/main.84157334.chunk.css.map",
+    "static/js/2.bc769f5a.chunk.js.LICENSE.txt": "/PortfolioLandingPage/static/js/2.bc769f5a.chunk.js.LICENSE.txt",
+    "static/media/fullimg_orig.jpg": "/PortfolioLandingPage/static/media/fullimg_orig.8fcc0832.jpg",
+    "static/media/sideimg.jpg": "/PortfolioLandingPage/static/media/sideimg.73fdd601.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7268b92.js",
-    "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.84f80429.chunk.js",
-    "static/css/main.bfbe6086.chunk.css",
-    "static/js/main.c4ca3046.chunk.js"
+    "static/js/2.bc769f5a.chunk.js",
+    "static/css/main.84157334.chunk.css",
+    "static/js/main.873b96a6.chunk.js"
   ]
 }
