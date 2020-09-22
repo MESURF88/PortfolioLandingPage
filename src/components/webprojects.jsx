@@ -1,4 +1,8 @@
 import React, { Component } from 'react'
+import JS_Icon from '../svg/javascript.svg';
+import JSON_Icon from '../svg/json.svg';
+import Hbar_Icon from '../svg/big-moustache.svg';
+import Python_Icon from '../svg/python.svg';
 
 export default class webprojects extends Component {
   render() {
@@ -40,7 +44,7 @@ export default class webprojects extends Component {
                     <div className="timeline-entry-inner">
                       <div className="timeline-label">
                         <p>Tools used:</p>
-                        <p><img  style={{width: '3%', height: '3%'}} src="../images/javascript.svg" alt="js_icon"/>Javascript,  <img  style={{width: '3%', height: '3%'}} src="../images/json.svg" alt="json_icon"/> JSON, <img  style={{width: '3%', height: '3%'}} src="../images/python.svg" alt="python_icon"/> Python, <img  style={{width: '3%', height: '3%'}} src="../images/big-moustache.svg" alt="handlebars_icon"/> Handlebars, <i className="icon-css3" /> CSS</p>
+                        <p><img  style={{width: '3%', height: '3%'}} src={JS_Icon} alt="js_icon"/>Javascript,  <img  style={{width: '3%', height: '3%'}} src={JSON_Icon} alt="json_icon"/> JSON, <img  style={{width: '3%', height: '3%'}} src={Python_Icon} alt="python_icon"/> Python, <img  style={{width: '3%', height: '3%'}} src={Hbar_Icon} alt="handlebars_icon"/> Handlebars, <i className="icon-css3" /> CSS</p>
                         </div>
                       </div>
                     </article>
@@ -84,7 +88,7 @@ export default class webprojects extends Component {
                     <div className="timeline-entry-inner">
                       <div className="timeline-label">
                         <p>Tools used:</p>
-                        <p><img  style={{width: '3%', height: '3%'}} src="../images/javascript.svg" alt="js_icon"/>Javascript,  <img  style={{width: '3%', height: '3%'}} src="../images/json.svg" alt="json_icon"/> JSON, <img  style={{width: '3%', height: '3%'}} src="../images/python.svg" alt="python_icon"/> Python, <i className="icon-html-five" /> HTML5, <i className="icon-css3" /> CSS</p>
+                        <p><img  style={{width: '3%', height: '3%'}} src={JS_Icon} alt="js_icon"/>Javascript,  <img  style={{width: '3%', height: '3%'}} src={JSON_Icon} alt="json_icon"/> JSON, <img  style={{width: '3%', height: '3%'}} src={Python_Icon} alt="python_icon"/> Python, <i className="icon-html-five" /> HTML5, <i className="icon-css3" /> CSS</p>
                         </div>
                       </div>
                     </article>
@@ -120,7 +124,7 @@ export default class webprojects extends Component {
                     <div className="timeline-entry-inner">
                       <div className="timeline-label">
                         <p>Tools used:</p>
-                        <p><img  style={{width: '3%', height: '3%'}} src="../images/javascript.svg" alt="js_icon"/>Javascript,  <i className="icon-power2" /> Socket.io, <i className="icon-html-five" /> HTML5, <i className="icon-css3" /> CSS</p>
+                        <p><img  style={{width: '3%', height: '3%'}} src={JS_Icon} alt="js_icon"/>Javascript,  <i className="icon-power2" /> Socket.io, <i className="icon-html-five" /> HTML5, <i className="icon-css3" /> CSS</p>
                         </div>
                       </div>
                     </article>
