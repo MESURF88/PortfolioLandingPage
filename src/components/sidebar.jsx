@@ -33,8 +33,8 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-coffee" aria-hidden="true" /> <br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
+                  Made with <i className="icon-coffee" aria-hidden="true" /> and <i className="icon-signal" aria-hidden="true" /><br></br>
+                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> and <a href="https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a> <br></br>for inspiration
               </small></p>
 
             </div>
