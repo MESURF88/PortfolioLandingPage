@@ -14,8 +14,8 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hi! <br />I'm Kevin</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1LtyrA1nZ9Z-SjYp2DDK2qFNSMR0_xW2LPBpe3d290xU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
+                          <h1>Hi! I'm Kevin</h1>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1LtyrA1nZ9Z-SjYp2DDK2qFNSMR0_xW2LPBpe3d290xU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Check <br></br> out my <br></br>Presentation </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://oregonstate.box.com/s/2bgasnz2pjfvpizs9f1n74tmqexsi9w3" target="_blank" rel="noopener noreferrer">View CyberSecurity Video <i className="icon-book" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://oregonstate.box.com/s/2bgasnz2pjfvpizs9f1n74tmqexsi9w3" target="_blank" rel="noopener noreferrer">View CyberSecurity Video <i className="icon-video" /></a></p>
                         </div>
                       </div>
                     </div>

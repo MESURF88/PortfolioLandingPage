@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I have a wide array of experience and interests, from Python user interfaces to networking a Raspberry Pi. My alma mater is at Purdue University with a major in Mechanical Engineering.</p>
+                    <p>I am currently pursuing a Post-Bacc degree from OSU in Computer Science. I enjoy making web apps and publishing them on Github, gcloud or Heroku (I have no favorite!). I strongly believe programming is a creative endeavor, see some of my skills below. </p>
                     </div>
                 </div>
                 </div>
@@ -26,79 +26,50 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <span className="heading-meta">Interests</span>
+                <h2 className="colorlib-heading">What is my experience?</h2>
             </div>
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+                <div className="services color-5">
                 <span className="icon">
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Embedded Systems </h3>
+                    <p>I have experience with C, C++, 1553, Linux </p>
                 </div>
                 </div>
             </div>
+
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Network Engineering</h3>
+                    <ul>Bandwidth testing</ul>
+                    <ul>LAN, VLAN and IP switch configuration</ul>
+                    <ul>Protocols: OSI and Time Sensitive Networking</ul>
                 </div>
                 </div>
             </div>
-            {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>Web Development</h3>
+                    <li>Front End</li>
+                    <p>Javascript, Apache2, CSS, HTML5, Handlebars, React</p>
+                    <li>Back End</li>
+                    <p>SQL, MySQL, PHP, Node</p>
                 </div>
                 </div>
             </div>
-            */}
             </div>
         </div>
         </section>
