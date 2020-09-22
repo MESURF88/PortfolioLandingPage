@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I have a wide array of experience and interests, from Python user interfaces to networking a Raspberry Pi. My alma mater is at Purdue University with a major in Mechanical Engineering.</p>
+                    <p>I have a wide array of software experience and interests, from Python user interfaces to networking a Raspberry Pi. My alma mater is at Purdue University with a major in Mechanical Engineering.</p>
                     <p>I am currently pursuing a Post-Bacc degree from OSU in Computer Science. I enjoy making web apps and publishing them on Github, gcloud or Heroku (I have no favorite!). I strongly believe programming is a creative endeavor, see some of my skills below. </p>
                     </div>
                 </div>
