@@ -114,7 +114,7 @@ export default class webprojects extends Component {
                 </div>
               </div>
               <div className="col-md-4 text-center animate-box">
-                <img src='./images/meditation478_snippet.jpg' style={{width: '100%' }} class="img-fluid" alt="Third Project"/> 
+                <img src='/images/meditation478_snippet.jpg' style={{width: '100%' }} class="img-fluid" alt="Third Project"/> 
               </div>
             </div>
             <div className="row row-md">
