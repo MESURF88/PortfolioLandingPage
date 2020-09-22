@@ -1,13 +1,17 @@
 {
   "main.css": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css",
-  "main.js": "/PortfolioLandingPage/static/js/main.a4806977.chunk.js",
-  "main.js.map": "/PortfolioLandingPage/static/js/main.a4806977.chunk.js.map",
+  "main.js": "/PortfolioLandingPage/static/js/main.3adcd24e.chunk.js",
+  "main.js.map": "/PortfolioLandingPage/static/js/main.3adcd24e.chunk.js.map",
   "runtime~main.js": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js",
   "runtime~main.js.map": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/PortfolioLandingPage/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/PortfolioLandingPage/static/js/2.5ec21d73.chunk.js.map",
+  "static/js/2.e69e1f3a.chunk.js": "/PortfolioLandingPage/static/js/2.e69e1f3a.chunk.js",
+  "static/js/2.e69e1f3a.chunk.js.map": "/PortfolioLandingPage/static/js/2.e69e1f3a.chunk.js.map",
   "index.html": "/PortfolioLandingPage/index.html",
-  "precache-manifest.63ffbc0ccfc9434f989cfbedbb9c3918.js": "/PortfolioLandingPage/precache-manifest.63ffbc0ccfc9434f989cfbedbb9c3918.js",
+  "precache-manifest.ce5b146f787475493a23dd046e6ef3b4.js": "/PortfolioLandingPage/precache-manifest.ce5b146f787475493a23dd046e6ef3b4.js",
   "service-worker.js": "/PortfolioLandingPage/service-worker.js",
-  "static/css/main.d5a2fdf6.chunk.css.map": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css.map"
+  "static/css/main.d5a2fdf6.chunk.css.map": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css.map",
+  "static/media/big-moustache.svg": "/PortfolioLandingPage/static/media/big-moustache.9ffc7dc6.svg",
+  "static/media/javascript.svg": "/PortfolioLandingPage/static/media/javascript.9fa24d34.svg",
+  "static/media/json.svg": "/PortfolioLandingPage/static/media/json.e34d1ec3.svg",
+  "static/media/python.svg": "/PortfolioLandingPage/static/media/python.9587af90.svg"
 }
