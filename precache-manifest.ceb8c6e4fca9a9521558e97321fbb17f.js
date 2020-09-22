@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/python.9587af90.svg"
   },
   {
-    "revision": "a8fba7596b5ccc7d67c0",
-    "url": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css"
+    "revision": "12292610b2cbc4cde6df",
+    "url": "/PortfolioLandingPage/static/css/main.a1f6d079.chunk.css"
   },
   {
     "revision": "6fa8204bee21960810ba",
     "url": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js"
   },
   {
-    "revision": "d5282dad57af6fdddff3",
-    "url": "/PortfolioLandingPage/static/js/2.d5282dad.chunk.js"
+    "revision": "c16225ec668626743e78",
+    "url": "/PortfolioLandingPage/static/js/2.c16225ec.chunk.js"
   },
   {
     "revision": "9fa24d34ec437c752e487dab0f1e179c",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/json.e34d1ec3.svg"
   },
   {
-    "revision": "a8fba7596b5ccc7d67c0",
-    "url": "/PortfolioLandingPage/static/js/main.a8fba759.chunk.js"
+    "revision": "12292610b2cbc4cde6df",
+    "url": "/PortfolioLandingPage/static/js/main.12292610.chunk.js"
   },
   {
     "revision": "9ffc7dc62e4f8561268688f137e33ff3",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/TBD_snippet.3084456f.jpg"
   },
   {
-    "revision": "3cbce34fb4fc61bc4a0d7aae095b98a8",
+    "revision": "94f1918672075e0542b9ac7bc878d8d0",
     "url": "/PortfolioLandingPage/index.html"
   }
 ];
