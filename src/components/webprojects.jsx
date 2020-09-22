@@ -3,6 +3,10 @@ import JS_Icon from '../svg/javascript.svg';
 import JSON_Icon from '../svg/json.svg';
 import Hbar_Icon from '../svg/big-moustache.svg';
 import Python_Icon from '../svg/python.svg';
+import Box_Snip from '../snippets/putmeinabox_snippet.JPG';
+import Motivational_Snip from '../snippets/motivational2020_snippet.JPG';
+import Meditation_Snip from '../snippets/meditation478_snippet.JPG';
+import TBD_Snip from '../snippets/TBD_snippet.jpg';
 
 export default class webprojects extends Component {
   render() {
@@ -34,7 +38,7 @@ export default class webprojects extends Component {
                 </div>
               </div>
               <div className="col-md-4 text-center animate-box">
-                <img src='./images/putmeinabox_snippet.jpg' style={{width: '100%' }} class="img-fluid" alt="First Project"/> 
+                <img src={Box_Snip} style={{width: '100%' }} class="img-fluid" alt="First Project"/> 
               </div>
             </div>
             <div className="row row-md">
@@ -54,7 +58,7 @@ export default class webprojects extends Component {
 
             <div className="row row-pt-md">
             <div className="col-md-3 text-center animate-box">
-                <img src='./images/motivational2020_snippet.jpg' style={{width: '100%' }} class="img-fluid" alt="Second Project"/> 
+                <img src={Motivational_Snip} style={{width: '100%' }} class="img-fluid" alt="Second Project"/> 
               </div>
               <div className="col-md-8 text-center animate-box">
                 <div className="timeline-centered">
@@ -114,7 +118,7 @@ export default class webprojects extends Component {
                 </div>
               </div>
               <div className="col-md-4 text-center animate-box">
-                <img src='/images/meditation478_snippet.jpg' style={{width: '100%' }} class="img-fluid" alt="Third Project"/> 
+                <img src={Meditation_Snip} style={{width: '100%' }} class="img-fluid" alt="Third Project"/> 
               </div>
             </div>
             <div className="row row-md">
@@ -134,7 +138,7 @@ export default class webprojects extends Component {
 
             <div className="row row-pt-md">
             <div className="col-md-3 text-center animate-box">
-                <img src='./images/TBD_snippet.jpg' style={{width: '100%' }} class="img-fluid" alt="Fourth Project"/> 
+                <img src={TBD_Snip} style={{width: '100%' }} class="img-fluid" alt="Fourth Project"/> 
               </div>
               <div className="col-md-8 text-center animate-box">
                 <div className="timeline-centered">
