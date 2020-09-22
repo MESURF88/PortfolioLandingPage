@@ -1,13 +1,13 @@
 {
-  "main.css": "/me/static/css/main.d5a2fdf6.chunk.css",
-  "main.js": "/me/static/js/main.c0d7524c.chunk.js",
-  "main.js.map": "/me/static/js/main.c0d7524c.chunk.js.map",
-  "runtime~main.js": "/me/static/js/runtime~main.1caf0789.js",
-  "runtime~main.js.map": "/me/static/js/runtime~main.1caf0789.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/me/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/me/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/me/index.html",
-  "precache-manifest.1fc0e37144bbf4ee59ef33f105bdef25.js": "/me/precache-manifest.1fc0e37144bbf4ee59ef33f105bdef25.js",
-  "service-worker.js": "/me/service-worker.js",
-  "static/css/main.d5a2fdf6.chunk.css.map": "/me/static/css/main.d5a2fdf6.chunk.css.map"
+  "main.css": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css",
+  "main.js": "/PortfolioLandingPage/static/js/main.a4806977.chunk.js",
+  "main.js.map": "/PortfolioLandingPage/static/js/main.a4806977.chunk.js.map",
+  "runtime~main.js": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js",
+  "runtime~main.js.map": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/PortfolioLandingPage/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/PortfolioLandingPage/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/PortfolioLandingPage/index.html",
+  "precache-manifest.63ffbc0ccfc9434f989cfbedbb9c3918.js": "/PortfolioLandingPage/precache-manifest.63ffbc0ccfc9434f989cfbedbb9c3918.js",
+  "service-worker.js": "/PortfolioLandingPage/service-worker.js",
+  "static/css/main.d5a2fdf6.chunk.css.map": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css.map"
 }
