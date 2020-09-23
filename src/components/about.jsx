@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I have a wide array of software experience and interests, from Python user interfaces to networking a Raspberry Pi. My alma mater is at Purdue University with a major in Mechanical Engineering.</p>
-                    <p>I am currently pursuing a Post-Bacc degree from OSU in Computer Science. I enjoy making web apps and publishing them on Github, gcloud or Heroku (I have no favorite!). I strongly believe programming is a creative endeavor, see some of my skills below. </p>
+                    <p>I have a wide array of software experience and interests, from Python user interfaces to networking a Raspberry Pi. My alma mater is Purdue University with a major in Mechanical Engineering.</p>
+                    <p>I am currently pursuing a Post-Bacc degree from Oregon State University in Computer Science. I enjoy making web apps and publishing them on Github, gcloud or Heroku (I have no favorite!). I strongly believe programming is a creative endeavor, see some of my skills below. </p>
                     </div>
                 </div>
                 </div>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Embedded Systems </h3>
-                    <p>I have experience with C, C++, 1553, Linux </p>
+                    <p>I have experience with C, C++, 1553 Communication, Linux </p>
                 </div>
                 </div>
             </div>

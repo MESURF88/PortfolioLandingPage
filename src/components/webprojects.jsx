@@ -30,7 +30,7 @@ export default class webprojects extends Component {
                         </div>
                         <div className="timeline-label">
                           <h2>Test Taking Website</h2>
-                          <p>Info: A tool to help classify yourself as a DnD (Dungeons and Dragons) class, using personality tests. The tests development was automated with Python.</p>
+                          <p>Info: A tool to help classify yourself as a DnD (Dungeons and Dragons) class, using personality tests. I used Python and JSON to automate the generation of the personality tests.</p>
                           <p>Check it out: <a href="https://putmeinabox.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
                         </div>
                       </div>
