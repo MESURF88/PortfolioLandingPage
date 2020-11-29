@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/python.9587af90.svg"
   },
   {
-    "revision": "62f7bf23b30257e8a21f",
+    "revision": "f827c86bc398285434b1",
     "url": "/PortfolioLandingPage/static/css/main.a1f6d079.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/json.e34d1ec3.svg"
   },
   {
-    "revision": "62f7bf23b30257e8a21f",
-    "url": "/PortfolioLandingPage/static/js/main.62f7bf23.chunk.js"
+    "revision": "f827c86bc398285434b1",
+    "url": "/PortfolioLandingPage/static/js/main.f827c86b.chunk.js"
   },
   {
     "revision": "9ffc7dc62e4f8561268688f137e33ff3",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/TBD_snippet.3084456f.jpg"
   },
   {
-    "revision": "741e77d5d365f3b180be8f982553e277",
+    "revision": "e22f8d5c2d76cf584b03b212e30855b0",
     "url": "/PortfolioLandingPage/index.html"
   }
 ];
