@@ -3,10 +3,11 @@ import JS_Icon from '../svg/javascript.svg';
 import JSON_Icon from '../svg/json.svg';
 import Hbar_Icon from '../svg/big-moustache.svg';
 import Python_Icon from '../svg/python.svg';
+import Mongo_Icon from '../svg/leaf.svg';
 import Box_Snip from '../snippets/putmeinabox_snippet.JPG';
 import Motivational_Snip from '../snippets/motivational2020_snippet.JPG';
 import Meditation_Snip from '../snippets/meditation478_snippet.JPG';
-import TBD_Snip from '../snippets/TBD_snippet.jpg';
+import QuizSoft_Snip from '../snippets/quizsoft_snippet.jpg';
 
 export default class webprojects extends Component {
   render() {
@@ -138,16 +139,16 @@ export default class webprojects extends Component {
 
             <div className="row row-pt-md">
             <div className="col-md-3 text-center animate-box">
-                <img src={TBD_Snip} style={{width: '100%' }} class="img-fluid" alt="Fourth Project"/> 
+                <img src={QuizSoft_Snip} style={{width: '100%' }} class="img-fluid" alt="Fourth Project"/> 
               </div>
               <div className="col-md-8 text-center animate-box">
                 <div className="timeline-centered">
                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                       <div className="timeline-entry-inner">
                         <div className="timeline-label">
-                          <h2>Capstone Project</h2>
-                          <p>Info: TBD.</p>
-                          <p>Check it out: TBD<i className="icon-libreoffice" /></p>
+                          <h2>Candidate Screening Webapp</h2>
+                          <p>Info: The final project of my OSU Computer Science Degree. A web application that allows a potential employer to sign up, create a quiz and email the link to a prospective candidate. Additional functionality includes timed quizzes for candidates, and detailed results and graphic metrics for employers.</p>
+                          <p>Check it out: <a href="https://softwarecustomquiz.herokuapp.com/login" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
                         </div>
                       </div>
                     </article>
@@ -172,7 +173,7 @@ export default class webprojects extends Component {
                     <div className="timeline-entry-inner">
                       <div className="timeline-label">
                         <p>Tools used:</p>
-                        <p>TBD</p>
+                        <p><img  style={{width: '3%', height: '3%'}} src={JS_Icon} alt="js_icon"/>Javascript, <img  style={{width: '3%', height: '3%'}} src={Hbar_Icon} alt="handlebars_icon"/> Handlebars, <i className="icon-css3" /> CSS, <img  style={{width: '3%', height: '3%'}} src={Mongo_Icon} alt="mongo_icon"/> Mongo</p>
                         </div>
                       </div>
                     </article>

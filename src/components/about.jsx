@@ -50,7 +50,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Network Engineering</h3>
-                    <ul>Bandwidth testing</ul>
+                    <ul>Ethernet Bandwidth testing</ul>
                     <ul>LAN, VLAN and IP switch configuration</ul>
                     <ul>Protocols: OSI and Time Sensitive Networking</ul>
                 </div>
