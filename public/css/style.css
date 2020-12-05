@@ -73,6 +73,14 @@ figure {
   overflow: hidden;
   position: relative; }
 
+.list-class {
+  background: url("http://abcd.com/static/media/slide.504dc6e6.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #colorlib-aside {
   padding-top: 1em;
   padding-bottom: 40px;
@@ -262,9 +270,7 @@ figure {
       @media screen and (max-width: 768px) {
         #colorlib-hero .flexslider .flex-control-nav {
           right: 20px;
-          top: 100px; } 
-          #colorlib-hero .list-class {
-            background-image: none; }}
+          top: 100px; } }
       #colorlib-hero .flexslider .flex-control-nav li {
         display: block;
         margin-bottom: 10px; }
