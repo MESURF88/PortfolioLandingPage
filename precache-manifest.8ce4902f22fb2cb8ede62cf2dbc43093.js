@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/python.9587af90.svg"
   },
   {
-    "revision": "d22e11084e3e8a6b0286",
+    "revision": "9f5de3e27e5bc7f3e48f",
     "url": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/big-moustache.9ffc7dc6.svg"
   },
   {
-    "revision": "d22e11084e3e8a6b0286",
-    "url": "/PortfolioLandingPage/static/js/main.d22e1108.chunk.js"
+    "revision": "9f5de3e27e5bc7f3e48f",
+    "url": "/PortfolioLandingPage/static/js/main.9f5de3e2.chunk.js"
   },
   {
     "revision": "5a6921121a141fec243c7a190e4174ad",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/quizsoft_snippet.4a1fcadd.jpg"
   },
   {
-    "revision": "e8b9b30d6bece5dd79952ff46c743780",
+    "revision": "c7592ede62230eaada43c7951f319ebf",
     "url": "/PortfolioLandingPage/index.html"
   }
 ];
