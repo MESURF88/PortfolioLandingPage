@@ -7,7 +7,7 @@ import Mongo_Icon from '../svg/leaf.svg';
 import Box_Snip from '../snippets/putmeinabox_snippet.JPG';
 import Motivational_Snip from '../snippets/motivational2020_snippet.JPG';
 import Meditation_Snip from '../snippets/meditation478_snippet.JPG';
-import QuizSoft_Snip from '../snippets/quizsoft_snippet.jpg';
+import QuizSoft_Snip from '../snippets/quizsoft_snippet.JPG';
 
 export default class webprojects extends Component {
   render() {

@@ -22,6 +22,21 @@ body {
     body {
       font-size: 16px; } }
 
+.empty-slide {
+  display: none;
+  visibility: hidden;
+}
+
+@media screen and (max-width: 1000px) {
+  .list-class {
+    display: none;
+    visibility: hidden;
+  }
+  .empty-slide {
+    display: block;
+    visibility: visible;
+  }  }
+
 a {
   color: #2c98f0;
   -webkit-transition: 0.5s;
@@ -74,7 +89,7 @@ figure {
   position: relative; }
 
 .list-class {
-  background: url("../images/bgimg2_tess.jpg");
+  background: url("https://imgur.com/gallery/DwzMLIS");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -267,6 +282,9 @@ figure {
       left: 20px;
       float: left;
       width: auto; }
+      @media screen and (max-width: 1000px) {
+        #colorlib-hero .flexslider .flex-control-nav {
+        visibility: hidden; } }
       @media screen and (max-width: 768px) {
         #colorlib-hero .flexslider .flex-control-nav {
           right: 20px;
