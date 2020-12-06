@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/python.9587af90.svg"
   },
   {
-    "revision": "4766c60c9bb0b57a9012",
+    "revision": "d5dabe9a68ce9435213f",
     "url": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/big-moustache.9ffc7dc6.svg"
   },
   {
-    "revision": "4766c60c9bb0b57a9012",
-    "url": "/PortfolioLandingPage/static/js/main.4766c60c.chunk.js"
+    "revision": "d5dabe9a68ce9435213f",
+    "url": "/PortfolioLandingPage/static/js/main.d5dabe9a.chunk.js"
   },
   {
     "revision": "5a6921121a141fec243c7a190e4174ad",
@@ -48,11 +48,11 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/meditation478_snippet.5323b1f1.JPG"
   },
   {
-    "revision": "4a1fcaddee8e16c5e7422e311870a840",
-    "url": "/PortfolioLandingPage/static/media/quizsoft_snippet.4a1fcadd.JPG"
+    "revision": "6c946b3adc2873de24bc303c1acdce18",
+    "url": "/PortfolioLandingPage/static/media/quizsoft_snippet.6c946b3a.JPG"
   },
   {
-    "revision": "564411c309fcfec6dc165be7be70a126",
+    "revision": "66420f604e3ed7fa779b93abd13cc894",
     "url": "/PortfolioLandingPage/index.html"
   }
 ];
