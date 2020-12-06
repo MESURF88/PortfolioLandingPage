@@ -7,6 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
           <ul className="empty-slide">
+            <div className="author-mobile-img" style={{backgroundImage: 'url(images/fullimg_orig.jpg)'}} />
             <div className="desc">
               <h1>Hi! I'm Kevin</h1>
               <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1LtyrA1nZ9Z-SjYp2DDK2qFNSMR0_xW2LPBpe3d290xU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link<i className="icon-download4" /></a></p>
