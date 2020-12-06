@@ -27,6 +27,21 @@ body {
   visibility: hidden;
 }
 
+.author-mobile-img {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative; 
+}
+
 @media screen and (max-width: 1000px) {
   .list-class {
     display: none;
