@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/python.9587af90.svg"
   },
   {
-    "revision": "9f5de3e27e5bc7f3e48f",
+    "revision": "a3d4d16ce5dd902db812",
     "url": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/big-moustache.9ffc7dc6.svg"
   },
   {
-    "revision": "9f5de3e27e5bc7f3e48f",
-    "url": "/PortfolioLandingPage/static/js/main.9f5de3e2.chunk.js"
+    "revision": "a3d4d16ce5dd902db812",
+    "url": "/PortfolioLandingPage/static/js/main.a3d4d16c.chunk.js"
   },
   {
     "revision": "5a6921121a141fec243c7a190e4174ad",
@@ -49,10 +49,10 @@ self.__precacheManifest = [
   },
   {
     "revision": "4a1fcaddee8e16c5e7422e311870a840",
-    "url": "/PortfolioLandingPage/static/media/quizsoft_snippet.4a1fcadd.jpg"
+    "url": "/PortfolioLandingPage/static/media/quizsoft_snippet.4a1fcadd.JPG"
   },
   {
-    "revision": "c7592ede62230eaada43c7951f319ebf",
+    "revision": "63461a759e47ed0cd6dd42e597f4c9dd",
     "url": "/PortfolioLandingPage/index.html"
   }
 ];

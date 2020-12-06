@@ -1,13 +1,13 @@
 {
   "main.css": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css",
-  "main.js": "/PortfolioLandingPage/static/js/main.9f5de3e2.chunk.js",
-  "main.js.map": "/PortfolioLandingPage/static/js/main.9f5de3e2.chunk.js.map",
+  "main.js": "/PortfolioLandingPage/static/js/main.a3d4d16c.chunk.js",
+  "main.js.map": "/PortfolioLandingPage/static/js/main.a3d4d16c.chunk.js.map",
   "runtime~main.js": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js",
   "runtime~main.js.map": "/PortfolioLandingPage/static/js/runtime~main.6fa8204b.js.map",
   "static/js/2.514e54e1.chunk.js": "/PortfolioLandingPage/static/js/2.514e54e1.chunk.js",
   "static/js/2.514e54e1.chunk.js.map": "/PortfolioLandingPage/static/js/2.514e54e1.chunk.js.map",
   "index.html": "/PortfolioLandingPage/index.html",
-  "precache-manifest.8ce4902f22fb2cb8ede62cf2dbc43093.js": "/PortfolioLandingPage/precache-manifest.8ce4902f22fb2cb8ede62cf2dbc43093.js",
+  "precache-manifest.5695acb1e6e1fe5f98bf3abcc7ea22b6.js": "/PortfolioLandingPage/precache-manifest.5695acb1e6e1fe5f98bf3abcc7ea22b6.js",
   "service-worker.js": "/PortfolioLandingPage/service-worker.js",
   "static/css/main.d5a2fdf6.chunk.css.map": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css.map",
   "static/media/big-moustache.svg": "/PortfolioLandingPage/static/media/big-moustache.9ffc7dc6.svg",
@@ -18,5 +18,5 @@
   "static/media/motivational2020_snippet.JPG": "/PortfolioLandingPage/static/media/motivational2020_snippet.e4b2e40e.JPG",
   "static/media/putmeinabox_snippet.JPG": "/PortfolioLandingPage/static/media/putmeinabox_snippet.de00e5c4.JPG",
   "static/media/python.svg": "/PortfolioLandingPage/static/media/python.9587af90.svg",
-  "static/media/quizsoft_snippet.jpg": "/PortfolioLandingPage/static/media/quizsoft_snippet.4a1fcadd.jpg"
+  "static/media/quizsoft_snippet.JPG": "/PortfolioLandingPage/static/media/quizsoft_snippet.4a1fcadd.JPG"
 }
