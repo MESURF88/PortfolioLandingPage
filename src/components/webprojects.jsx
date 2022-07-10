@@ -68,7 +68,7 @@ export default class webprojects extends Component {
                         <div className="timeline-label">
                           <h2>Motivational Website</h2>
                           <p>Info: Generates a random motivational quote from a JSON index. The 300+ quotes were scraped from the web using a Python script.</p>
-                          <p>Check it out: <a href="https://motivational2020.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
+                          <p>Check it out: <a href="https://mesurf88.github.io/Motivational2020/index.html" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
                         </div>
                       </div>
                     </article>
@@ -112,7 +112,7 @@ export default class webprojects extends Component {
                         <div className="timeline-label">
                           <h2>Meditation Webapp</h2>
                           <p>Info: A timing based web app that guides a 4-7-8 meditation breathing. Once Begin is clicked... Breathe in 4 seconds, hold for 7 seconds, breathe out for 8 seconds.</p>
-                          <p>Check it out: <a href="https://meditation478.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
+                          <p>Check it out: <a href="https://mesurf88.github.io/MeditateIn478/" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
                         </div>
                       </div>
                     </article>
