@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f5751f8247182690fd64",
+    "revision": "c508680d0e55b4033b3d",
     "url": "/PortfolioLandingPage/static/css/main.d5a2fdf6.chunk.css"
   },
   {
-    "revision": "f5751f8247182690fd64",
-    "url": "/PortfolioLandingPage/static/js/main.f5751f82.chunk.js"
+    "revision": "c508680d0e55b4033b3d",
+    "url": "/PortfolioLandingPage/static/js/main.c508680d.chunk.js"
   },
   {
     "revision": "6fa8204bee21960810ba",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/PortfolioLandingPage/static/media/quizsoft_snippet.6c946b3a.JPG"
   },
   {
-    "revision": "e481e9abb78caa1dd28ea7cad350b49c",
+    "revision": "5095fe0de8eb5c7ecbf7d02e35231c34",
     "url": "/PortfolioLandingPage/index.html"
   }
 ];
