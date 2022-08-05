@@ -148,7 +148,7 @@ export default class webprojects extends Component {
                         <div className="timeline-label">
                           <h2>Candidate Screening Webapp</h2>
                           <p>Info: The final project of my OSU Computer Science Degree. This project allows a potential employer to sign up, create a quiz and email the link to a prospective candidate. Additional functionality includes: timed quizzes for candidates, and detailed results and graphic metrics for employers.</p>
-                          <p>Check it out: <a href="https://softwarecustomquiz.herokuapp.com/login" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
+                          <p>Check it out: <a href="https://adamjwright.com/quiz_soft/login" target="_blank" rel="noopener noreferrer"><i className="icon-libreoffice" /></a></p>
                         </div>
                       </div>
                     </article>
